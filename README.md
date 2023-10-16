@@ -1,5 +1,5 @@
 ### Kerim Taray
-Hello! I am Kerim, a Computer Science student at Tec de Monterrey. I am interested in Software Engineering.
+Hello! I am Kerim, a CS student at Tec de Monterrey. I am currently a SWE for @Contalink (YC 21). I am interested in Software Engineering.
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
