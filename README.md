@@ -1,18 +1,6 @@
 ## Kerim Taray
 Hello! I am Kerim, a CS student at Tec de Monterrey. I am interested in Software Engineering.
 
-```javascript
-class Me {
-  constructor() {
-    this.name = "Kerim Taray";
-    this.currentLocation = "Monterrey, NL";
-    this.favoriteLanguage = "JavaScript";
-    this.favoriteFramework = "React";
-    this.areaOfInterest = "Web Development";
-  }
-}
-```
-
 ## Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
