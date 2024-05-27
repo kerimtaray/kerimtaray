@@ -1,5 +1,5 @@
 ### Kerim Taray
-Hello! I am Kerim, a CS student at Tec de Monterrey. I am currently a SWE for @Contalink (YC 21). I like building web apps.
+Hello! I am Kerim, a CS major from Tec de Monterrey. I like building web apps.
 
 ### Programming Languages
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
